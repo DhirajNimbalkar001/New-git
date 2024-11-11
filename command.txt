@@ -10,3 +10,5 @@ Git command:
 4) Git remote url
 
 5) Git URL
+
+6) git Pull 
