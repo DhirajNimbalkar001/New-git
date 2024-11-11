@@ -1,0 +1,12 @@
+
+
+Git command:
+1) Git Init
+
+2) Git Add
+
+3) Git Commit
+
+4) Git remote url
+
+5) Git URL
